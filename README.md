@@ -15,7 +15,7 @@
 
 ### 📚 Проекты 📚
 
-* Кликните [сюда](https://github.com/Ekaterina-1989) чтобы посмотреть мои проекты
+* Кликните [сюда](https://github.com/Ekaterina-1989/SF_Data_Science) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
 - Языки программирования и разметки: Python, Markdoun;
@@ -52,7 +52,7 @@
 
 ### 📚 Projects 📚
 
-* Click [here](https://github.com/Ekaterina-1989) to see my projects
+* Click [here](https://github.com/Ekaterina-1989/SF_Data_Science) to see my projects
 
 ### 💡 Core competencies 💡
 - Programming and markup languages: Python, Markdoun;
