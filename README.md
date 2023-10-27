@@ -39,7 +39,7 @@
 
 ---
 
-### Hello! 👋 My name is Ekaterina
+### Hello 👋 My name is Ekaterina
 
 ### ✨ About me in 30 seconds ✨ 
 
