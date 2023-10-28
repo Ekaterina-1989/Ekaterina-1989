@@ -33,7 +33,7 @@
       - Работоспособность;
       - Целеустремленность.
 
-### ✉️ Вы можете связаться со мной по gopkaloekaterina89@gmail.com или gopkaloekaterina89@gmail.com
+### ✉️ Вы можете связаться со мной по gopkaloekaterina@mail.ru или gopkaloekaterina89@gmail.com
 
 ---
 
@@ -68,4 +68,4 @@
       - Efficiency;
       - Purposefulness.
 
-### ✉️ You can contact me by gopkaloekaterina89@gmail.com or gopkaloekaterina89@gmail.com
+### ✉️ You can contact me by gopkaloekaterina@mail.ru or gopkaloekaterina89@gmail.com
