@@ -34,8 +34,6 @@
       - Целеустремленность.
 
 ### ✉️ Вы можете связаться со мной по gopkaloekaterina89@gmail.com или gopkaloekaterina89@gmail.com
- 
-### Социальные сети <p align="left"> <a href="https://www.github.com/Ekaterina-1989 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " width= "32" height ="32" /></a></p>
 
 ---
 
@@ -71,5 +69,3 @@
       - Purposefulness.
 
 ### ✉️ You can contact me by gopkaloekaterina89@gmail.com or gopkaloekaterina89@gmail.com
-
-### Social network <p align="left"> <a href="https://www.github.com/Ekaterina-1989 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " width= "32" height ="32" /></a></p>
